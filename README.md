@@ -25,8 +25,8 @@ Public transport users often face challenges like unpredictable bus schedules, l
 | Layer       | Technology               |
 |-------------|---------------------------|
 | Frontend    | Flutter                   |
-| Backend     | Spring Boot, WebSocket    |
-| Database    | PostgreSQL with PostGIS   |
+| Backend     | Spring Boot   |
+| Database    | PostgreSQL   |
 | Version Control | Git & GitHub         |
 
 ---
